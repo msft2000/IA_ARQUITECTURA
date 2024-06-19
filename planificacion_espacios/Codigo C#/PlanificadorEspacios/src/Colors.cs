@@ -1,0 +1,85 @@
+﻿using DSCore;
+
+namespace PlanificadorEspacios.src
+{
+    internal static class Colors
+    {
+        internal static List<Color> colores = new List<Color>
+        {
+            Color.ByARGB(255,255,0,0),
+            Color.ByARGB(255,255,128,0),
+            Color.ByARGB(255,255,255,0),
+            Color.ByARGB(255,128,255,0),
+            Color.ByARGB(255,0,255,0),
+            Color.ByARGB(255,0,255,128),
+            Color.ByARGB(255,0,255,255),
+            Color.ByARGB(255,0,128,255),
+            Color.ByARGB(255,0,0,255),
+            Color.ByARGB(255,128,0,255),
+            Color.ByARGB(255,255,0,255),
+            Color.ByARGB(255,255,0,128),
+            Color.ByARGB(255,128,128,128),
+            Color.ByARGB(255,192,192,192),
+            Color.ByARGB(255,255,255,255),
+            Color.ByARGB(255,255,0,0),
+            Color.ByARGB(255,255,128,0),
+            Color.ByARGB(255,255,255,0),
+            Color.ByARGB(255,128,255,0),
+            Color.ByARGB(255,0,255,0),
+            Color.ByARGB(255,0,255,128),
+            Color.ByARGB(255,0,255,255),
+            Color.ByARGB(255,0,128,255),
+            Color.ByARGB(255,0,0,255),
+            Color.ByARGB(255,128,0,255),
+            Color.ByARGB(255,255,0,255),
+            Color.ByARGB(255,255,0,128),
+            Color.ByARGB(255,128,128,128),
+            Color.ByARGB(255,192,192,192),
+            Color.ByARGB(255,255,255,255),
+            Color.ByARGB(255,255,0,0),
+            Color.ByARGB(255,255,128,0),
+            Color.ByARGB(255,255,255,0),
+            Color.ByARGB(255,128,255,0),
+            Color.ByARGB(255,0,255,0),
+            Color.ByARGB(255,0,255,128),
+            Color.ByARGB(255,0,255,255),
+            Color.ByARGB(255,0,128,255),
+            Color.ByARGB(255,0,0,255),
+            Color.ByARGB(255,128,0,255),
+            Color.ByARGB(255,255,0,255),
+            Color.ByARGB(255,255,0,128),
+            Color.ByARGB(255,128,128,128),
+            Color.ByARGB(255,192,192,192),
+            Color.ByARGB(255,44,94,61),
+            Color.ByARGB(255,255,0,0),
+            Color.ByARGB(255,255,128,0),
+            Color.ByARGB(255,255,255,0),
+            Color.ByARGB(255,128,255,0),
+            Color.ByARGB(255,0,255,0),
+            Color.ByARGB(255,0,255,128),
+            Color.ByARGB(255,0,255,255),
+            Color.ByARGB(255,0,128,255),
+            Color.ByARGB(255,0,0,255),
+            Color.ByARGB(255,128,0,255),
+            Color.ByARGB(255,255,0,255),
+            Color.ByARGB(255,255,0,128),
+            Color.ByARGB(255,128,128,128),
+            Color.ByARGB(255,192,192,192),
+            Color.ByARGB(255,255,255,255),
+            Color.ByARGB(255,255,0,0),
+            Color.ByARGB(255,255,128,0),
+            Color.ByARGB(255,255,255,0),
+            Color.ByARGB(255,128,255,0),
+            Color.ByARGB(255,0,255,0),
+            Color.ByARGB(255,0,255,128),
+            Color.ByARGB(255,0,255,255),
+            Color.ByARGB(255,0,128,255),
+            Color.ByARGB(255,0,0,255),
+            Color.ByARGB(255,128,0,255)
+        };
+        internal static List<Color> getColores
+        {
+            get { return colores; }
+        }
+    }
+}

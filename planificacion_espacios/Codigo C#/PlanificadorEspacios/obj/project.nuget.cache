@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UWEYx8yItY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RenatoPC\\.nuget\\packages\\dynamovisualprogramming.dynamocorenodes\\3.1.0.4724\\dynamovisualprogramming.dynamocorenodes.3.1.0.4724.nupkg.sha512",
+    "C:\\Users\\RenatoPC\\.nuget\\packages\\dynamovisualprogramming.dynamoservices\\3.1.0.4724\\dynamovisualprogramming.dynamoservices.3.1.0.4724.nupkg.sha512",
+    "C:\\Users\\RenatoPC\\.nuget\\packages\\dynamovisualprogramming.libg_230_0_0\\3.0.0.5155\\dynamovisualprogramming.libg_230_0_0.3.0.0.5155.nupkg.sha512",
+    "C:\\Users\\RenatoPC\\.nuget\\packages\\dynamovisualprogramming.zerotouchlibrary\\3.1.0.4724\\dynamovisualprogramming.zerotouchlibrary.3.1.0.4724.nupkg.sha512"
+  ],
+  "logs": []
+}

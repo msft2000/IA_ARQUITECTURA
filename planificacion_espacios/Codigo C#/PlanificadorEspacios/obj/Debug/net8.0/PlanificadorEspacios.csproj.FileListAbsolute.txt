@@ -1,0 +1,12 @@
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.csproj.AssemblyReference.cache
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.AssemblyInfoInputs.cache
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.AssemblyInfo.cs
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\bin\Debug\net8.0\PlanificadorEspacios.deps.json
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\bin\Debug\net8.0\PlanificadorEspacios.dll
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\bin\Debug\net8.0\PlanificadorEspacios.pdb
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.dll
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\refint\PlanificadorEspacios.dll
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\PlanificadorEspacios.pdb
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0\ref\PlanificadorEspacios.dll

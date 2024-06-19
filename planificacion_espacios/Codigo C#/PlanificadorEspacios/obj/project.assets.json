@@ -1,0 +1,282 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "DynamoVisualProgramming.DynamoCoreNodes/3.1.0.4724": {
+        "type": "package",
+        "dependencies": {
+          "DynamoVisualProgramming.DynamoServices": "3.1.0.4724",
+          "DynamoVisualProgramming.ZeroTouchLibrary": "3.1.0.4724"
+        },
+        "compile": {
+          "lib/net8.0/Analysis.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/CoreNodeModels.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/DSCoreNodes.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/GeometryColor.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/UnitsNodeModels.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/Watch3DNodeModels.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Analysis.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/CoreNodeModels.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/DSCoreNodes.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/GeometryColor.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/UnitsNodeModels.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/Watch3DNodeModels.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DynamoVisualProgramming.DynamoServices/3.1.0.4724": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/DynamoServices.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/DynamoServices.dll": {
+            "related": ".XML"
+          }
+        }
+      },
+      "DynamoVisualProgramming.LibG_230_0_0/3.0.0.5155": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/_._": {}
+        }
+      },
+      "DynamoVisualProgramming.ZeroTouchLibrary/3.1.0.4724": {
+        "type": "package",
+        "dependencies": {
+          "DynamoVisualProgramming.DynamoServices": "3.1.0.4724"
+        },
+        "compile": {
+          "lib/net8.0/DynamoUnits.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/ProtoGeometry.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/DynamoUnits.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/ProtoGeometry.dll": {
+            "related": ".XML"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamoVisualProgramming.DynamoCoreNodes/3.1.0.4724": {
+      "sha512": "9rRLTrSkGINR6aWOVz7WvNrFFW155hUjc23w0MAOR+mJ9zv0cUcBk74I/F8WBoyHiWXcpMcQlFCQzmq68T3I0g==",
+      "type": "package",
+      "path": "dynamovisualprogramming.dynamocorenodes/3.1.0.4724",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/images/logo.png",
+        "dynamovisualprogramming.dynamocorenodes.3.1.0.4724.nupkg.sha512",
+        "dynamovisualprogramming.dynamocorenodes.nuspec",
+        "lib/net8.0/Analysis.dll",
+        "lib/net8.0/Analysis.xml",
+        "lib/net8.0/CoreNodeModels.dll",
+        "lib/net8.0/CoreNodeModels.xml",
+        "lib/net8.0/DSCoreNodes.dll",
+        "lib/net8.0/DSCoreNodes.xml",
+        "lib/net8.0/GeometryColor.dll",
+        "lib/net8.0/GeometryColor.xml",
+        "lib/net8.0/UnitsNodeModels.dll",
+        "lib/net8.0/UnitsNodeModels.xml",
+        "lib/net8.0/Watch3DNodeModels.dll",
+        "lib/net8.0/Watch3DNodeModels.xml"
+      ]
+    },
+    "DynamoVisualProgramming.DynamoServices/3.1.0.4724": {
+      "sha512": "fzLbvCyhMC9rgLDyG2z/Ury5Pwf6mAB+HIiNGNzVZkMpy4l+SBZAg4TJJZlHN5nur4JghayhQ5OI5MjqR/hjgw==",
+      "type": "package",
+      "path": "dynamovisualprogramming.dynamoservices/3.1.0.4724",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/images/logo.png",
+        "dynamovisualprogramming.dynamoservices.3.1.0.4724.nupkg.sha512",
+        "dynamovisualprogramming.dynamoservices.nuspec",
+        "lib/netstandard2.0/DynamoServices.XML",
+        "lib/netstandard2.0/DynamoServices.dll"
+      ]
+    },
+    "DynamoVisualProgramming.LibG_230_0_0/3.0.0.5155": {
+      "sha512": "dqKf0eW/KtOgn6wy5aBbBqfbgjy68n0wUuDdptH0euRckz/Y+KI5rU6GXZpHEmKwg1fMqnkYZX7V0Qqp0Kkm5A==",
+      "type": "package",
+      "path": "dynamovisualprogramming.libg_230_0_0/3.0.0.5155",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "dynamovisualprogramming.libg_230_0_0.3.0.0.5155.nupkg.sha512",
+        "dynamovisualprogramming.libg_230_0_0.nuspec",
+        "images/logo.png",
+        "ref/netstandard2.0/ProtoGeometry.dll",
+        "tools/libg_locale/en_US/LC_MESSAGES/libg.mo",
+        "tools/libg_locale/en_US/LC_MESSAGES/libg.po",
+        "tools/netstandard2.0/linux/LibG.Interface.dll",
+        "tools/netstandard2.0/linux/LibG_230_0_0/Autodesk.GeometryPrimitives.Dynamo.dll",
+        "tools/netstandard2.0/linux/LibG_230_0_0/LibG.AsmPreloader.Managed.dll",
+        "tools/netstandard2.0/linux/LibG_230_0_0/LibG.Managed.dll",
+        "tools/netstandard2.0/linux/LibG_230_0_0/LibG.ProtoInterface.dll",
+        "tools/netstandard2.0/linux/LibG_230_0_0/libLibG.AsmPreloader.Unmanaged.so",
+        "tools/netstandard2.0/linux/LibG_230_0_0/libLibG.so",
+        "tools/netstandard2.0/linux/LibG_230_0_0/libLibGCore.so",
+        "tools/netstandard2.0/linux/ProtoGeometry.XML",
+        "tools/netstandard2.0/linux/ProtoGeometry.dll",
+        "tools/netstandard2.0/linux/asm_deps.csproj",
+        "tools/netstandard2.0/linux/en-US/ProtoGeometry.resources.dll",
+        "tools/netstandard2.0/windows/LibG.Interface.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/Autodesk.GeometryPrimitives.Dynamo.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/LibG.AsmPreloader.Managed.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/LibG.AsmPreloader.Unmanaged.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/LibG.Managed.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/LibG.ProtoInterface.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/LibG.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/LibGCore.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/libiconv.dll",
+        "tools/netstandard2.0/windows/LibG_230_0_0/libintl.dll",
+        "tools/netstandard2.0/windows/ProtoGeometry.XML",
+        "tools/netstandard2.0/windows/ProtoGeometry.dll",
+        "tools/netstandard2.0/windows/asm_deps.csproj",
+        "tools/netstandard2.0/windows/en-US/ProtoGeometry.resources.dll"
+      ]
+    },
+    "DynamoVisualProgramming.ZeroTouchLibrary/3.1.0.4724": {
+      "sha512": "6iWJeAhWazXxWnakr3tH9U5kafmdIzTrbdDdLc/zyxbij5+A0GbPIwwcJUVqgz/OAfrlYfG2xHXVz9IklmQZUA==",
+      "type": "package",
+      "path": "dynamovisualprogramming.zerotouchlibrary/3.1.0.4724",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/images/logo.png",
+        "dynamovisualprogramming.zerotouchlibrary.3.1.0.4724.nupkg.sha512",
+        "dynamovisualprogramming.zerotouchlibrary.nuspec",
+        "lib/net8.0/DynamoUnits.dll",
+        "lib/net8.0/DynamoUnits.xml",
+        "lib/net8.0/ProtoGeometry.XML",
+        "lib/net8.0/ProtoGeometry.dll",
+        "lib/netstandard2.0/ProtoGeometry.XML",
+        "lib/netstandard2.0/ProtoGeometry.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "DynamoVisualProgramming.DynamoCoreNodes >= 3.1.0.4724",
+      "DynamoVisualProgramming.DynamoServices >= 3.1.0.4724",
+      "DynamoVisualProgramming.LibG_230_0_0 >= 3.0.0.5155"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\RenatoPC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj",
+      "projectName": "PlanificadorEspacios",
+      "projectPath": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj",
+      "packagesPath": "C:\\Users\\RenatoPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\RenatoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "DynamoVisualProgramming.DynamoCoreNodes": {
+            "target": "Package",
+            "version": "[3.1.0.4724, )"
+          },
+          "DynamoVisualProgramming.DynamoServices": {
+            "target": "Package",
+            "version": "[3.1.0.4724, )"
+          },
+          "DynamoVisualProgramming.LibG_230_0_0": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.0.0.5155, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

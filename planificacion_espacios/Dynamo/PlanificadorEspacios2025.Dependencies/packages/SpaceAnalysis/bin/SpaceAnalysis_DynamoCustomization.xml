@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>SpaceAnalysis</name>
+  </assembly>
+  <namespaces>
+    <namespace name="SpaceAnalysis">
+      <category>SpaceAnalysis</category>
+    </namespace>
+    <namespace name="SpaceAnalysis.Core">
+      <category>SpaceAnalysis.Core</category>
+    </namespace>
+    <namespace name="SpaceAnalysis.Acoustics">
+      <category>SpaceAnalysis.Acoustics</category>
+    </namespace>
+    <namespace name="SpaceAnalysis.Pathfinding">
+      <category>SpaceAnalysis.Pathfinding</category>
+    </namespace>
+    <namespace name="SpaceAnalysis.Visibility">
+      <category>SpaceAnalysis.Visibility</category>
+    </namespace>
+  </namespaces>
+</doc>

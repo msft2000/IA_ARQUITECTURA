@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj",
+        "projectName": "PlanificadorEspacios",
+        "projectPath": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\PlanificadorEspacios.csproj",
+        "packagesPath": "C:\\Users\\RenatoPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RenatoPC\\Desktop\\Pruebas Dynamo\\2024\\Space Planning\\PlanificadorEspacios Final\\Codigo C#\\PlanificadorEspacios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RenatoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "DynamoVisualProgramming.DynamoCoreNodes": {
+              "target": "Package",
+              "version": "[3.1.0.4724, )"
+            },
+            "DynamoVisualProgramming.DynamoServices": {
+              "target": "Package",
+              "version": "[3.1.0.4724, )"
+            },
+            "DynamoVisualProgramming.LibG_230_0_0": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0.5155, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

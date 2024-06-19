@@ -1,0 +1,25 @@
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\bin\Debug\net8.0-windows\PlanificadorEspacios.deps.json
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\bin\Debug\net8.0-windows\PlanificadorEspacios.dll
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\bin\Debug\net8.0-windows\PlanificadorEspacios.pdb
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.csproj.AssemblyReference.cache
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.AssemblyInfoInputs.cache
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.AssemblyInfo.cs
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.dll
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\refint\PlanificadorEspacios.dll
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.pdb
+C:\Users\Renato\Documents\Proyectos\PlanificadorEspacios\obj\Debug\net8.0-windows\ref\PlanificadorEspacios.dll
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\bin\Debug\net8.0-windows\PlanificadorEspacios.deps.json
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\bin\Debug\net8.0-windows\PlanificadorEspacios.dll
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\bin\Debug\net8.0-windows\PlanificadorEspacios.pdb
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.csproj.AssemblyReference.cache
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.AssemblyInfoInputs.cache
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.AssemblyInfo.cs
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.csproj.CoreCompileInputs.cache
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.sourcelink.json
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.dll
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\refint\PlanificadorEspacios.dll
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\PlanificadorEspacios.pdb
+C:\Users\RenatoPC\Desktop\Pruebas Dynamo\2024\Space Planning\Codigos C\PlanificadorEspacios\obj\Debug\net8.0-windows\ref\PlanificadorEspacios.dll

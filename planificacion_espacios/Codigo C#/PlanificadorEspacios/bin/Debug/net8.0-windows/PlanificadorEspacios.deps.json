@@ -1,0 +1,112 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PlanificadorEspacios/1.0.0": {
+        "dependencies": {
+          "DynamoVisualProgramming.DynamoCoreNodes": "3.1.0.4724",
+          "DynamoVisualProgramming.DynamoServices": "3.1.0.4724",
+          "DynamoVisualProgramming.LibG_230_0_0": "3.0.0.5155"
+        },
+        "runtime": {
+          "PlanificadorEspacios.dll": {}
+        }
+      },
+      "DynamoVisualProgramming.DynamoCoreNodes/3.1.0.4724": {
+        "dependencies": {
+          "DynamoVisualProgramming.DynamoServices": "3.1.0.4724",
+          "DynamoVisualProgramming.ZeroTouchLibrary": "3.1.0.4724"
+        },
+        "runtime": {
+          "lib/net8.0/Analysis.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          },
+          "lib/net8.0/CoreNodeModels.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          },
+          "lib/net8.0/DSCoreNodes.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          },
+          "lib/net8.0/GeometryColor.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          },
+          "lib/net8.0/UnitsNodeModels.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          },
+          "lib/net8.0/Watch3DNodeModels.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          }
+        }
+      },
+      "DynamoVisualProgramming.DynamoServices/3.1.0.4724": {
+        "runtime": {
+          "lib/netstandard2.0/DynamoServices.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          }
+        }
+      },
+      "DynamoVisualProgramming.LibG_230_0_0/3.0.0.5155": {},
+      "DynamoVisualProgramming.ZeroTouchLibrary/3.1.0.4724": {
+        "dependencies": {
+          "DynamoVisualProgramming.DynamoServices": "3.1.0.4724"
+        },
+        "runtime": {
+          "lib/net8.0/DynamoUnits.dll": {
+            "assemblyVersion": "3.1.0.4724",
+            "fileVersion": "3.1.0.4724"
+          },
+          "lib/net8.0/ProtoGeometry.dll": {
+            "assemblyVersion": "3.0.0.4655",
+            "fileVersion": "3.0.0.4655"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlanificadorEspacios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DynamoVisualProgramming.DynamoCoreNodes/3.1.0.4724": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9rRLTrSkGINR6aWOVz7WvNrFFW155hUjc23w0MAOR+mJ9zv0cUcBk74I/F8WBoyHiWXcpMcQlFCQzmq68T3I0g==",
+      "path": "dynamovisualprogramming.dynamocorenodes/3.1.0.4724",
+      "hashPath": "dynamovisualprogramming.dynamocorenodes.3.1.0.4724.nupkg.sha512"
+    },
+    "DynamoVisualProgramming.DynamoServices/3.1.0.4724": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fzLbvCyhMC9rgLDyG2z/Ury5Pwf6mAB+HIiNGNzVZkMpy4l+SBZAg4TJJZlHN5nur4JghayhQ5OI5MjqR/hjgw==",
+      "path": "dynamovisualprogramming.dynamoservices/3.1.0.4724",
+      "hashPath": "dynamovisualprogramming.dynamoservices.3.1.0.4724.nupkg.sha512"
+    },
+    "DynamoVisualProgramming.LibG_230_0_0/3.0.0.5155": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dqKf0eW/KtOgn6wy5aBbBqfbgjy68n0wUuDdptH0euRckz/Y+KI5rU6GXZpHEmKwg1fMqnkYZX7V0Qqp0Kkm5A==",
+      "path": "dynamovisualprogramming.libg_230_0_0/3.0.0.5155",
+      "hashPath": "dynamovisualprogramming.libg_230_0_0.3.0.0.5155.nupkg.sha512"
+    },
+    "DynamoVisualProgramming.ZeroTouchLibrary/3.1.0.4724": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6iWJeAhWazXxWnakr3tH9U5kafmdIzTrbdDdLc/zyxbij5+A0GbPIwwcJUVqgz/OAfrlYfG2xHXVz9IklmQZUA==",
+      "path": "dynamovisualprogramming.zerotouchlibrary/3.1.0.4724",
+      "hashPath": "dynamovisualprogramming.zerotouchlibrary.3.1.0.4724.nupkg.sha512"
+    }
+  }
+}

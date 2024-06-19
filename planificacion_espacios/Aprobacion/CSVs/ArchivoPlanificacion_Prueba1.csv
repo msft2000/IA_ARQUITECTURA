@@ -1,0 +1,8 @@
+ID,NOMBRE ESPACIO,NOMBRE DEPARTAMENTO,CANTIDAD,AREA,VALOR PREFERENCIA,TIPO ESPACIO,ADYACENCIA ID,ANCHO,LARGO
+0,Sala,Sala,1,40,10,R,0.4.5.6.1,,
+1,Habitacion 1,Habitacion 1,1,21.3,10,R,6.4,,
+2,Cocina,Cocina,1,17,10,R,0,,
+3,Baño 1,Baño 1,1,5,8,R,4,,
+4,Estudio,Estudio,1,10.12,7,R,3.1.0,,
+5,Habitacion 2,Habitacion 2,1,15.275,10,R,0.6,,
+6,Baño 2,Baño 2,1,7.8,8,R,5.0.1,,

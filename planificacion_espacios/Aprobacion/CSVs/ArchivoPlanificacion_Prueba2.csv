@@ -1,0 +1,7 @@
+ID,NOMBRE ESPACIO,NOMBRE DEPARTAMENTO,CANTIDAD,AREA,VALOR PREFERENCIA,TIPO ESPACIO,ADYACENCIA ID,ANCHO,LARGO
+0,Oficinas 2,Oficinas,1,45,10,P,,8,5.65
+1,Oficinas 1,Oficinas,1,42,10,P,,7,6.1013
+2,Almacenamiento,Storage,1,27,10,P,,8,3.4513
+3,Bodega,Storage,1,16,10,P,,7,4.3115
+4,Mantenimiento,Mantenimiento,1,14,10,P,,4.3,3.3674
+5,Maquinas,Mantenimiento,1,20,10,P,,6,3.3987
