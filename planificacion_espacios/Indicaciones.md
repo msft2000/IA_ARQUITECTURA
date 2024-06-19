@@ -27,6 +27,6 @@ Para utilizar la herramienta, es necesario instalar un paquete adicional en el i
 	`.\Scripts\pip install shapely==1.8.0`
 
 **Nota:**
-	Dentro de Dynamo se usa estos comandos para indicar correctamente el interprete
-	`localapp = os.getenv(r'LOCALAPPDATA')`
-	`sys.path.append(os.path.join(localapp, r'python-3.8.3-embed-amd64\Lib\site-packages'))`
+Dentro de Dynamo se usa estos comandos para indicar correctamente el interprete:
+`localapp = os.getenv(r'LOCALAPPDATA')`
+`sys.path.append(os.path.join(localapp, r'python-3.8.3-embed-amd64\Lib\site-packages'))`
