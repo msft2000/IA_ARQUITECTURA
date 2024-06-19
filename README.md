@@ -21,8 +21,6 @@ El proyecto fue evaluado de forma empírica en el estudio **A y D Estudio Arquit
 
 Cada carpeta corresponde a una solución específica y contiene las instrucciones de uso correspondientes.
 
----
-
 #### Soluciones del Proyecto
 
 El proyecto incluye dos soluciones principales, ambas implementadas como herramientas Dynamo que se ejecutan en Revit y están listas para ser utilizadas como generadores en estudio generativo:
