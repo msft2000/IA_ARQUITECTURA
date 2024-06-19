@@ -18,7 +18,8 @@ Cada carpeta corresponde a una solución específica y contiene las instruccione
 
 #### Soluciones del Proyecto
 
-El proyecto incluye dos soluciones principales, ambas implementadas como herramientas Dynamo que corren sobre Revit:
+El proyecto incluye dos soluciones principales, ambas implementadas como herramientas Dynamo que se ejecutan en Revit y están listas para ser utilizadas como generadores en estudio generativo:
+
 1. **Generación Automática de Volumetrías**
 2. **Planificación Automática de Espacios**
 
