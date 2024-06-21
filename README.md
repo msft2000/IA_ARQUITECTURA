@@ -1,5 +1,4 @@
-# Proyecto: Inteligencia Artificial en Arquitectura
-## Automatización de la Planificación del Espacio y Generación de Volumetría o Masa de un Edificio
+# Proyecto: Inteligencia Artificial en Arquitectura: Automatización de la Planificación del Espacio y Generación de Volumetría o Masa de un Edificio
 
 El proyecto fue evaluado de forma empírica en el estudio **A y D Estudio Arquitectura y Diseño**, al cual se agradece su participación.
 
